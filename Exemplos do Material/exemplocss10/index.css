@@ -1,4 +1,4 @@
-/*
+
 div {
     width: 60px;
     height: 60px;
@@ -8,24 +8,25 @@ div {
     background-color: gold;
     background-image: url('https://mdn.mozillademos.org/files/11947/ff-logo.png');
     background-position: center;
-    background-size: 140px;   60 conteudo + 40 padding + 40 border 
+    background-size: 140px;    
+    /* 60 conteudo + 40 padding + 40 border  */
 }
-*/
 
-/*
+
+
 .default {
     background-clip: border-box;
 }
-*/
 
-/*
+
+
 .padding-box {
     background-clip: padding-box;
 }
-*/
 
-/*
+
+
 .content-box {
     background-clip: content-box;
 }
-*/
+
