@@ -1,0 +1,37 @@
+.caixa-vertical {
+    display: flex;
+    height: 400px;
+    width: 400px;
+    flex-direction: column;
+    background-color: deepskyblue;
+}
+
+.espacador {
+    flex: auto;
+    /* margin: 5px;
+    background-color: slategray;
+    border: 1px solid black; */
+}
+
+.caixa-horizontal {
+    display: flex;
+    flex-direction: row;
+    /* margin: 5px;
+    background-color: orange; */
+}
+
+.elemento-centralizado {
+    flex: none;
+    /* margin: 5px;  
+    border: 1px solid black; */
+}
+
+p {
+    width: 170px;
+    height: 2rem;
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+    line-height: 2;
+    background-color: white;
+}
