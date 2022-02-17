@@ -1,32 +1,27 @@
 /* Estilos Gerais */
-/*
 body {
-    margin: 0;
+  margin: 0;
 }
-*/
 
-/*
 #wrapper * {
-    padding: 20px;
-    font-size: 20px;
-    border: 20px solid rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  font-size: 20px;
+  border: 20px solid rgba(0, 0, 0, 0.5);
+  border-radius: 8px;
 }
-*/
 
 /* Caixas Específicas */
-/*
 #wrapper header,
 #wrapper footer {
-    background-color: blue;
-    color: white;
+  background-color: #9D3C27;
+  color: white;
+  margin: 15px 0 0 0;
 }
-*/
 
-/*
 #wrapper main {
-    background-color: yellow;
+  background-color: yellow;
+  margin: 20px 20px;
 }
-*/
 
 /*
 #wrapper header {}
