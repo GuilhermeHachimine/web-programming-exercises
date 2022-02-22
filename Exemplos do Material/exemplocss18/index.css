@@ -1,10 +1,10 @@
-/*
+
 li {
     display: inline;
 }
-*/
 
-/*
+
+
 .button-link {
     padding: 10px 25px;
     border: solid 1px #20538D;
@@ -25,17 +25,17 @@ li {
     -ms-user-select: none;
     user-select: none;
 }
-*/
 
-/*
+
+
 .button-link:hover {
     border: solid 1px #2A4E77;
     background: #356094;
     text-decoration: none;
 }
-*/
 
-/*
+
+
 .button-link:active {
     border: solid 1px #203E5F;
     background: #2E5481;
@@ -43,4 +43,4 @@ li {
     -moz-box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.6);
     box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.6);
 }
-*/
+
