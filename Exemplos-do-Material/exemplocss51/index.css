@@ -18,7 +18,7 @@
     background-color: firebrick;
 }
 
-/*
+
 .wrapper {
     display: grid;
     grid-template-columns: repeat(9, 1fr);
@@ -27,4 +27,4 @@
         "hd hd hd hd   hd   hd   hd   hd   hd"
         "sd sd sd main main main main main main"
         "ft ft ft ft   ft   ft   ft   ft   ft";
-}*/
+}
