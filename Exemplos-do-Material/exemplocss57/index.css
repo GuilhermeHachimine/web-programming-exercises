@@ -11,11 +11,11 @@
     background-color: #ffa94d;
 }
 
-.wrapper div:nth-child(2) {
+/* .wrapper div:nth-child(2) {
     grid-column: 3;
     grid-row: 2 / 4;
     background-color: deepskyblue;
-}
+} */
 
 .wrapper div:nth-child(5) {
     grid-column: 1 / 3;
