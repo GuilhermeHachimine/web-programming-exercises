@@ -1,0 +1,106 @@
+[
+    {
+        "nome": "Acre",
+        "code": "AC"
+    },
+    {
+        "nome": "Alagoas",
+        "code": "AL"
+    },
+    {
+        "nome": "Amapá",
+        "code": "AP"
+    },
+    {
+        "nome": "Amazonas",
+        "code": "AM"
+    },
+    {
+        "nome": "Bahia",
+        "code": "BA"
+    },
+    {
+        "nome": "Ceará",
+        "code": "CE"
+    },
+    {
+        "nome": "Distrito Federal",
+        "code": "DF"
+    },
+    {
+        "nome": "Espírito Santo",
+        "code": "ES"
+    },
+    {
+        "nome": "Goiás",
+        "code": "GO"
+    },
+    {
+        "nome": "Maranhão",
+        "code": "MA"
+    },
+    {
+        "nome": "Mato Grosso do Sul",
+        "code": "MT"
+    },
+    {
+        "nome": "Minas Gerais",
+        "code": "MG"
+    },
+    {
+        "nome": "Pará",
+        "code": "PA"
+    },
+    {
+        "nome": "Paraíba",
+        "code": "PB"
+    },
+    {
+        "nome": "Paraná",
+        "code": "PR"
+    },
+    {
+        "nome": "Pernambuco",
+        "code": "PE"
+    },
+    {
+        "nome": "Piauí",
+        "code": "PI"
+    },
+    {
+        "nome": "Rio de Janeiro",
+        "code": "RJ"
+    },
+    {
+        "nome": "Rio Grande do Norte",
+        "code": "RN"
+    },
+    {
+        "nome": "Rio Grande do Sul",
+        "code": "RS"
+    },
+    {
+        "nome": "Rondônia",
+        "code": "RO"
+    },
+    {
+        "nome": "Roraima",
+        "code": "RR"
+    },
+    {
+        "nome": "Santa Catarina",
+        "code": "SC"
+    },
+    {
+        "nome": "São Paulo",
+        "code": "SP"
+    },
+    {
+        "nome": "Sergipe",
+        "code": "SE"
+    },
+    {
+        "nome": "Tocantins",
+        "code": "TO"
+    }
+]

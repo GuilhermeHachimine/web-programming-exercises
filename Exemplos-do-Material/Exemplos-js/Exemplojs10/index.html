@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Título da Página</title>
+    <script src="js/vendors/jquery-3.4.1.min.js"></script>
+    <script src="js/vendors/jquery.easy-autocomplete.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/vendors/easy-autocomplete.min.css">
+    <script src="js/vendors/jquery.mask.min.js"></script>
+    <script src="js/vendors/jquery.maskMoney.min.js"></script>
+    <script src="js/vendors/jquery.masknumber.min.js"></script>
+    <script src="js/codigo.js"></script>
+</head>
+
+<body>
+    <h2>jquery.easy-autocomplete</h2>
+    <p>
+        <label for="estado">Estado:</label>
+        <input type="text" name="estado" id="estado">
+    </p>
+    <hr>
+    <h2>jquery.maskMoney</h2>
+    <p>
+        <label for="dinheiro">Dinheiro:</label>
+        <input type="text" name="dinheiro" id="dinheiro">
+    </p>
+    <hr>
+    <h2>jquery.masknumber</h2>
+    <span>Dinheiro padrão:</span>
+    <input name="currency-default" />
+    <br /><br />
+    <span>Dinheiro com opções via atributos data:</span>
+    <input name="currency-data-attributes" data-decimal="," data-thousands="." />
+    <br /><br />
+    <span>Dinheiro com opções via configuração:</span>
+    <input name="currency-configuration" />
+    <br /><br />
+    <hr />
+    <br />
+    <span>Padrão para inteiro:</span>
+    <input name="integer-default" />
+    <br /><br />
+    <span>Inteiro com mudança de milhares via atributo data:</span>
+    <input name="integer-data-attribute" data-thousands="." />
+    <br/><br />
+    <span>Inteiro com mudança de milhares via configuração:</span>
+    <input name="integer-configuration" />
+    <hr>
+    <h2>jquery.mask</h2>
+    <p>
+        <label for="data">Data:</label>
+        <input type="text" name="data" class="date" id="data">
+    </p>
+    <p>
+        <label for="hora">Hora:</label>
+        <input type="text" name="hora" class="time" id="hora">
+    </p>
+    <p>
+        <label for="datahora">Data e Hora:</label>
+        <input type="text" name="datahora" class="date_time" id="datahora">
+    </p>
+    <p>
+        <label for="cep">CEP:</label>
+        <input type="text" name="cep" class="cep" id="cep">
+    </p>
+    <p>
+        <label for="telefone">Telefone:</label>
+        <input type="text" name="telefone" class="phone" id="telefone">
+    </p>
+    <p>
+        <label for="telefoneddd">Telefone com DDD:</label>
+        <input type="text" name="telefoneddd" class="phone_with_ddd" id="telefoneddd">
+    </p>
+    <p>
+        <label for="cpf">CPF:</label>
+        <input type="text" name="cpf" class="cpf" id="cpf">
+    </p>
+    <p>
+        <label for="cnpj">CNPJ:</label>
+        <input type="text" name="cnpj" class="cnpj" id="cnpj">
+    </p>
+    <p>
+        <label for="dinheiro">Dinheiro 1:</label>
+        <input type="text" name="dinheiro" class="money" id="dinheiro">
+    </p>
+    <p>
+        <label for="dinheiro2">Dinheiro 2:</label>
+        <input type="text" name="dinheiro2" class="money2" id="dinheiro2">
+    </p>
+    <p>
+        <label for="ip">IP 1:</label>
+        <input type="text" name="ip" class="ip_address" id="ip">
+    </p>
+    <p>
+        <label for="ip2">IP 2:</label>
+        <input type="text" name="ip2" class="ip_address2" id="ip2">
+    </p>
+    <p>
+        <label for="porcentagem">Porcentagem:</label>
+        <input type="text" name="porcentagem" class="percent" id="porcentagem">
+    </p>
+    <p>
+        <label for="apagar">Apagar se não bater:</label>
+        <input type="text" name="apagar" class="clear-if-not-match" id="apagar">
+    </p>
+    <p>
+        <label for="placeholder">Placeholder:</label>
+        <input type="text" name="placeholder" class="placeholder" id="placeholder">
+    </p>
+    <p>
+        <label for="selectonfocus">Select on Focus:</label>
+        <input type="text" name="selectonfocus" class="selectonfocus" id="selectonfocus">
+    </p>
+    <p>
+        <label for="seilah">Seilah (fallback):</label>
+        <input type="text" name="seilah" class="fallback" id="seilah">
+    </p>
+    <p>
+        <label for="mixed">Seilah2 (mixed):</label>
+        <input type="text" name="mixed" class="mixed" id="mixed">
+    </p>
+</body></html>
